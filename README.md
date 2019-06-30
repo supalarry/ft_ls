@@ -1,6 +1,27 @@
 # ft_ls
 ft_ls is reprogrammed UNIX ls command.
 
+# source of creation
+ft_ls is programmed by using following functions
+◦ write
+◦ opendir
+◦ readdir
+◦ closedir
+◦ stat
+◦ lstat
+◦ getpwuid
+◦ getgrgid
+◦ listxattr
+◦ getxattr
+◦ time
+◦ ctime
+◦ readlink
+◦ malloc
+◦ free
+◦ perror
+◦ strerror
+◦ exit
+
 ## Getting Started
 To create a executable that acts like UNIX ls command, run **make** in root folder to get executable called **ft_ls**.
 By running ft_ls executable, current working directory's items will be listed by their ASCII values.
