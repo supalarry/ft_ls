@@ -3,8 +3,11 @@ ft_ls is reprogrammed UNIX ls command.
 
 # source of creation
 ft_ls is programmed by using following functions
+
 ◦ write
+
 ◦ opendir
+
 ◦ readdir
 ◦ closedir
 ◦ stat
