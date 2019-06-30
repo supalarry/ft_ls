@@ -15,6 +15,7 @@ R - list subdirectories of current directory recursively
 r - reverse the order of listed items
 l - long form displays persmissions of a file, links, owner, group,
 size of file in byte, date of modifictation and name.
+a - displays also hidden files, current directory . and parent directory ..
 ```
 
 Also displays set user id, set group id and sticky bit in addition to major
