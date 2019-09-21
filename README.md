@@ -1,6 +1,6 @@
 # ft_ls
 ft_ls is reproduced UNIX ls command. Just like real ls, ft_ls allows to use various flags too.
-To produce ft_ls() function, UNIX write, opendir, readdir, closedir, stat, lstat, getpwuid, getgrgid, listxattr, getxattr, time, ctime, readlink, malloc, free, perror, strerror, exit functions have been used. Rest of the functionality is custom built.
+To produce ft_ls() function, UNIX write, opendir, readdir, closedir, stat, lstat, getpwuid, getgrgid, listxattr, getxattr, time, ctime, readlink, malloc, free, perror, strerror, exit functions have been used. Rest of the functionality is custom built. 
 
 ## Project folder structure
 ```
